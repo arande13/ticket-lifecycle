@@ -28,7 +28,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+A mock ticket regarding the banking system being down has been sent to the help desk agent Karen. In the process of working the ticket,the agent Karen, assigns this ticket to the support department under the help topic of reporting a problem. Karen also, adds notes in the thread on the ticket to ensure that anyone who works it has a chronological understanding of the updates supplied to the ticket and all who have accessed the ticket.
 </p>
 <br />
 
@@ -36,7 +36,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+As the ticket gets worked, it is assigned over to Jane who is also apart of the online banking department. We are currently signed in as agent Jane Doe to work and resolve the ticket. Because this is a company wide issue, we switch the SLA to Sev-A and the help topic to Business Outage Critial. This ensures that there is constant attention and urgency applied when working this ticket.
 </p>
 <br />
 
@@ -44,6 +44,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Because John Doe is a Supreme Admin he oversees the ticket and works in tandem with Jane Doe to get the ticket resolved while giving continous updates in the thread. In this exercise we vacillate back and forth between agent user Jane Doe and admin user John Doe. The purpose is to create a scenario where we used Jane as an agent who had limited access and have John as an admin/manager who has all access.
 </p>
 <br /># ticket-lifecycle
